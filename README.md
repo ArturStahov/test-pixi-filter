@@ -6,4 +6,4 @@ use:
 - pixi.js;
 - pixi-filter;
 
-view :
+view : https://arturstahov.github.io/test-pixi-filter/
