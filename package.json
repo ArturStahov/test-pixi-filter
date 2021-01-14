@@ -50,6 +50,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.2",
+    "gsap": "^3.5.1",
     "handlebars": "^4.7.6",
     "pixi-filters": "^3.2.2",
     "pixi.js": "^5.3.7"
